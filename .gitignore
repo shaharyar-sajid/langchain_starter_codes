@@ -3,4 +3,5 @@
 __pycache__/
 *.pyc
 *.pyo
+*.json
 .ipynb_checkpoints/
