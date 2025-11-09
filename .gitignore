@@ -1,7 +1,8 @@
 *.pdf
 .env
-__pycache__/
 *.pyc
 *.pyo
 *.json
 .ipynb_checkpoints/
+__pycache__/
+emb/

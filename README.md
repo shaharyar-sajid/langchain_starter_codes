@@ -49,3 +49,6 @@ LangChain automatically picks up your OpenAI key from the environment.
 OPENAI_API_KEY=sk-your-openai-key-here
 ```
 LangChain will automatically load this key using dotenv.
+
+## NOTE
+Some parts of the jupyter notebooks code scripts have been taken from Stephen Griders course named [ChatGPT and LangChain: The Complete Developer's Masterclass](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
